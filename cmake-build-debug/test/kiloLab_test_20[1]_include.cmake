@@ -1,0 +1,5 @@
+if(EXISTS "D:/ClionProject/kiloLab/cmake-build-debug/test/kiloLab_test_20[1]_tests.cmake")
+  include("D:/ClionProject/kiloLab/cmake-build-debug/test/kiloLab_test_20[1]_tests.cmake")
+else()
+  add_test(kiloLab_test_20_NOT_BUILT kiloLab_test_20_NOT_BUILT)
+endif()

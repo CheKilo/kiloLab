@@ -1,0 +1,26 @@
+# ninja log v6
+583	2780	7607965052992383	test/kiloLab_test_11.exe	c119cf1464618b65
+3781	5558	7607960903826077	lib/libgtest.a	74d61ba4de8292cd
+5	583	7607965025296367	test/CMakeFiles/kiloLab_test_11.dir/functionTest.cpp.obj	b50aed9206699287
+583	2780	7607965052992383	D:/ClionProject/kiloLab/cmake-build-debug/test/kiloLab_test_11[1]_tests.cmake	c119cf1464618b65
+5558	5595	7607960921590898	lib/libgtest_main.a	95286bdd0d43e867
+3	650	7607960866051147	D:/ClionProject/kiloLab/third_party/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	35daa30b503dd10a
+771	2932	7607965054518145	test/kiloLab_test_17[1]_tests.cmake	8986abd9a122d36e
+1	3780	7607960866031110	D:/ClionProject/kiloLab/third_party/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	88e3b519afd9dd0
+583	2780	7607965052992383	test/kiloLab_test_11[1]_tests.cmake	c119cf1464618b65
+1	716	7607977392116466	build.ninja	789383052d0b597f
+771	2932	7607965054518145	test/kiloLab_test_17.exe	8986abd9a122d36e
+4	594	7607964826442717	test/CMakeFiles/kiloLab_test_14.dir/functionTest.cpp.obj	cdfce3d5171f7f79
+8	771	7607965025326379	test/CMakeFiles/kiloLab_test_17.dir/functionTest.cpp.obj	a1c2edcb6dd41dcb
+4	903	7607973342011084	test/CMakeFiles/kiloLab_test_20.dir/functionTest.cpp.obj	5c361ec8048c543d
+594	2596	7607964852309477	test/kiloLab_test_14.exe	1a2f27b258a61f0
+594	2596	7607964852309477	test/kiloLab_test_14[1]_tests.cmake	1a2f27b258a61f0
+594	2596	7607964852309477	D:/ClionProject/kiloLab/cmake-build-debug/test/kiloLab_test_14[1]_tests.cmake	1a2f27b258a61f0
+771	2932	7607965054518145	D:/ClionProject/kiloLab/cmake-build-debug/test/kiloLab_test_17[1]_tests.cmake	8986abd9a122d36e
+903	3061	7607973372528938	test/kiloLab_test_20.exe	97c0281c46f388cb
+903	3061	7607973372528938	test/kiloLab_test_20[1]_tests.cmake	97c0281c46f388cb
+903	3061	7607973372528938	D:/ClionProject/kiloLab/cmake-build-debug/test/kiloLab_test_20[1]_tests.cmake	97c0281c46f388cb
+9	797	7607961360039975	D:/ClionProject/kiloLab/third_party/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj	d3ee4572b6bb497e
+4	1440	7607961359980006	D:/ClionProject/kiloLab/third_party/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	64299d0aecdc1c00
+1440	1665	7607961374347908	lib/libgmock.a	8cee31af88249622
+1665	1703	7607961376605049	lib/libgmock_main.a	ab8159bc9f401780

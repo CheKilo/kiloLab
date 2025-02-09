@@ -1,0 +1,15 @@
+FunctionTest.CanStoreAndCallVoidLambda 2 0.00225345
+FunctionTest.CanStoreAndCallParameterizedLambda 2 0.0023516
+FunctionTest.CanStoreAndCallVoidLambda 2 0.00225345
+FunctionTest.CanStoreAndCallParameterizedLambda 2 0.0023516
+FunctionTest.CanStoreAndCallVoidLambda 2 0.00225345
+FunctionTest.CanStoreAndCallParameterizedLambda 2 0.0023516
+FunctionTest.CanStoreAndCallVoidLambda 2 0.00225345
+FunctionTest.CanStoreAndCallParameterizedLambda 2 0.0023516
+FunctionTest.CanStoreAndCallVoidLambda 1 0.0052706
+FunctionTest.CanStoreAndCallParameterizedLambda 1 0.005623
+FunctionTest.CanStoreAndCallVoidLambda 1 0.0057828
+FunctionTest.CanStoreAndCallParameterizedLambda 1 0.00486
+FunctionTest.CanStoreAndCallVoidLambda 1 0.0046722
+FunctionTest.CanStoreAndCallParameterizedLambda 1 0.0046545
+---

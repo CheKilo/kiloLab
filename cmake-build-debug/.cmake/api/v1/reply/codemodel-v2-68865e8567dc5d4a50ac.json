@@ -1,0 +1,248 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "test",
+					"childIndexes" : 
+					[
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-test-Debug-f18be1977b403cfd1a50.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "test",
+					"targetIndexes" : 
+					[
+						4,
+						5,
+						6,
+						7
+					]
+				},
+				{
+					"build" : "D:/ClionProject/kiloLab/third_party/googletest-build",
+					"childIndexes" : 
+					[
+						3
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-third_party.googletest-src-Debug-d59567d848590b2c71a4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 2,
+					"source" : "third_party/googletest-src"
+				},
+				{
+					"build" : "D:/ClionProject/kiloLab/third_party/googletest-build/googlemock",
+					"childIndexes" : 
+					[
+						4
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-third_party.googletest-src.googlemock-Debug-cc0312ac397875b31d92.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 3,
+					"source" : "third_party/googletest-src/googlemock",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				},
+				{
+					"build" : "D:/ClionProject/kiloLab/third_party/googletest-build/googletest",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-third_party.googletest-src.googletest-Debug-1539374c2fd91d16a5fd.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 4,
+					"source" : "third_party/googletest-src/googletest",
+					"targetIndexes" : 
+					[
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "kiloLab"
+				},
+				{
+					"childIndexes" : 
+					[
+						2
+					],
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "kiloLab_test",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						4,
+						5,
+						6,
+						7
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						3
+					],
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "googletest-distribution",
+					"parentIndex" : 1
+				},
+				{
+					"childIndexes" : 
+					[
+						4
+					],
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "gmock",
+					"parentIndex" : 2,
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "gtest",
+					"parentIndex" : 3,
+					"targetIndexes" : 
+					[
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 3,
+					"id" : "gmock::@6e1808ae933dbf432b30",
+					"jsonFile" : "target-gmock-Debug-a300cad1c4d25d4e1c36.json",
+					"name" : "gmock",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "gmock_main::@6e1808ae933dbf432b30",
+					"jsonFile" : "target-gmock_main-Debug-e22cfd4854a933fa7eac.json",
+					"name" : "gmock_main",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "gtest::@cfde00d478e88d9f86ab",
+					"jsonFile" : "target-gtest-Debug-28d6ba71224d77e8f8a3.json",
+					"name" : "gtest",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "gtest_main::@cfde00d478e88d9f86ab",
+					"jsonFile" : "target-gtest_main-Debug-4aa3375a50c060d6fced.json",
+					"name" : "gtest_main",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "kiloLab_test_11::@36f028580bb02cc8272a",
+					"jsonFile" : "target-kiloLab_test_11-Debug-0c31075ca91689ed27b9.json",
+					"name" : "kiloLab_test_11",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "kiloLab_test_14::@36f028580bb02cc8272a",
+					"jsonFile" : "target-kiloLab_test_14-Debug-8cc6e74a6221734e54c0.json",
+					"name" : "kiloLab_test_14",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "kiloLab_test_17::@36f028580bb02cc8272a",
+					"jsonFile" : "target-kiloLab_test_17-Debug-f1ebcfd8c3272db055c5.json",
+					"name" : "kiloLab_test_17",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "kiloLab_test_20::@36f028580bb02cc8272a",
+					"jsonFile" : "target-kiloLab_test_20-Debug-6b54b88ced9a175a9d16.json",
+					"name" : "kiloLab_test_20",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/ClionProject/kiloLab/cmake-build-debug",
+		"source" : "D:/ClionProject/kiloLab"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
